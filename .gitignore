@@ -1,0 +1,8 @@
+# Node
+node_modules/
+dist/
+.nyc_output/
+coverage/
+
+# VS Code
+.vscode/*.log
